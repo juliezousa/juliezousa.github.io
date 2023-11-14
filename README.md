@@ -14,13 +14,21 @@ Physics, BSc
 
 ### Work Experience
 
-Head of Data Science at Adaggio Music Fund
+#### Head of Data Science at Adaggio Music Fund
 - Time series forecasting
 
-Data Scientist at Pyrite Risk Experts
+#### Data Scientist at Pyrite Risk Experts
 - Fraud Detection
 
 ### Projects
 
 Fraud Detection Public Account at FGV
 - NLP for fraud detection
+
+### My GitHub Repositories
+🚀 ####Explore my Projects:
+
+[Data Science - Basics](https://github.com/juliezousa/portfolio/tree/main): Brief description highlighting key features and technologies.
+[Deep Learning - PINNs]((https://github.com/juliezousa/PINNs)): Demonstrates my expertise in [specific technology/tool].
+[Natural Language Processing]((https://github.com/juliezousa/Adaggio-Music/blob/main/CLASSIFICACAO-OBRAS-ADAGGIO-NLP.ipynb)): A snapshot of the innovative solutions implemented and lessons learned.
+
