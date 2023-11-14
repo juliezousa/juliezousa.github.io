@@ -26,9 +26,19 @@ Physics, BSc
 
 #### 🚀 Explore my Projects:
 
-- [Data Science - Basics](https://github.com/juliezousa/portfolio/tree/main): This repository showcases my journey in exploring and applying various data science techniques to real-world datasets. From predictive modeling to exploratory data analysis.
+- [Data Science - Basics]
+
+<div style="text-align: justify;">
+(https://github.com/juliezousa/portfolio/tree/main): This repository showcases my journey in exploring and applying various data science techniques to real-world datasets. From predictive modeling to exploratory data analysis.
+</div>
+
+<div style="text-align: justify;">
 
 - [Deep Learning - PINNs](https://github.com/juliezousa/PINNs): Demonstrates my expertise in Deep Learning Frameworks—implementations for scientific computing using PyTorch and TensorFlow.
+</div>
+
+<div style="text-align: justify;">
 
 - [Natural Language Processing](https://github.com/juliezousa/NLP-Real-Data): This collection represents my efforts to leverage NLP techniques for extracting insights from textual data. Covering a spectrum of applications, from sentiment analysis to language translation, each project is meticulously designed to illustrate the capabilities and practical applications of NLP within real-world contexts.
+</div>
 
