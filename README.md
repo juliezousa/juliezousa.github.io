@@ -7,9 +7,11 @@ A Data Scientist and Ph.D. candidate in mathematical modeling with a strong back
 
 </div>
 
+
+
 ### Education
 
-Applied Mathematics, PhD
+Applied Mathematics, PhD Candidate
 
 Physics, MSc
 
