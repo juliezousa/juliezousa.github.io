@@ -9,13 +9,13 @@ A Data Scientist and Ph.D. candidate in mathematical modeling with a strong back
 
 ### Education
 
-**Applied Mathematics, PhD Candidate**de 
+**Applied Mathematics, PhD Candidate** -  
 Artificial intelligence, Deep Learning, Physics-Informed Neural Networks, Dynamic Systems.
 
-**Physics, MSc**
+**Physics, MSc** - 
 Quantum Field Theory, Quantum Computing.
 
-**Physics, BSc**
+**Physics, BSc** - 
 Group Theory.
 
 ### Work Experience
